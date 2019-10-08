@@ -94,5 +94,9 @@ def print_list():
 
     print(distros_tuple)
 
+    #Let's solve a problem
+    #High Score
+    #Exercism.io / Python / High Score
+
 if __name__ == '__main__':
     print_list()
