@@ -68,6 +68,7 @@ def print_list():
     print(distros_list)
     print(removed_distros)
 
+    #Remove and item by its content
     distros_list.remove('Gentoo')
 
     distros_list.reverse()
